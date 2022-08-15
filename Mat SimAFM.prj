@@ -1,0 +1,66 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="3454667168" file="/Users/py06gh/Library/CloudStorage/OneDrive-UniversityofLeeds/_AFM Software/Simulation AFM App/Mat SimAFM.prj" location="/Users/py06gh/Library/CloudStorage/OneDrive-UniversityofLeeds/_AFM Software/Simulation AFM App" name="Mat SimAFM" target="target.mlapps" target-name="Package App">
+    <param.appname>Mat SimAFM</param.appname>
+    <param.authnamewatermark>George Heath</param.authnamewatermark>
+    <param.email>g.r.heath@leeds.ac.uk</param.email>
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary />
+    <param.description />
+    <param.screenshot>/private/var/folders/q_/s0_3grms30q3lmd996fsfvwcxb418d/T/tp8d427e20_48ee_4204_97fb_0cb0759020f9.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>${PROJECT_ROOT}</param.output>
+    <param.guid>4764106c-b424-436d-946d-822ca0840b94</param.guid>
+    <unset>
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.summary />
+      <param.description />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}/Mat_SimAFM_app.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}/AFM_co.mat</file>
+      <file>${PROJECT_ROOT}/export_tiffs.m</file>
+      <file>${PROJECT_ROOT}/lutafm.mat</file>
+    </fileset.depfun>
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="/Users/py06gh/Library/CloudStorage/OneDrive-UniversityofLeeds/_AFM Software" name="Simulation AFM App" optional="false">/Users/py06gh/Library/CloudStorage/OneDrive-UniversityofLeeds/_AFM Software/Simulation AFM App</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>/Applications/MATLAB_R2022a.app</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>true</unix>
+      <mac>true</mac>
+      <windows>false</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>12.4</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>maci64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
