@@ -18,8 +18,11 @@ Without the ‘Bioinformatics Toolbox’ 3D coordinates can be read using ‘loa
 
 ## How to Use App:
 1.	Load coordinates of structure to be simulated using either the ‘Load pdb ID’, ‘Load local .pdb file’ or ‘Load .txt, .csv…’ buttons. See below for description of each option:
+
 1.1	Load pdb ID: Enter the 4-character alphanumeric identifier of your protein of interest found at https://www.rcsb.org or from accession codes within publications and then, Press the ‘Load pdb ID’ button. Note that this button requires an internet connection and may timeout if the connection is poor.
+
 1.2	Load local .pdb file: Press this button and then Select a .pdb file from your local files
+
 1.3	Load .txt, .csv…: Press this button and then select a .txt, .csv or .xlsx file with the x, y and z coordinates arranged as 3 single columns without any headers.
 
 
