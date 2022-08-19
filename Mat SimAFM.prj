@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="3454667168" file="/Users/py06gh/Library/CloudStorage/OneDrive-UniversityofLeeds/_AFM Software/Simulation AFM App/Mat SimAFM.prj" location="/Users/py06gh/Library/CloudStorage/OneDrive-UniversityofLeeds/_AFM Software/Simulation AFM App" name="Mat SimAFM" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="3681474634" file="/Users/py06gh/Library/CloudStorage/OneDrive-UniversityofLeeds/_AFM Software/Simulation AFM App/Mat SimAFM.prj" location="/Users/py06gh/Library/CloudStorage/OneDrive-UniversityofLeeds/_AFM Software/Simulation AFM App" name="Mat SimAFM" target="target.mlapps" target-name="Package App">
     <param.appname>Mat SimAFM</param.appname>
     <param.authnamewatermark>George Heath</param.authnamewatermark>
     <param.email>g.r.heath@leeds.ac.uk</param.email>
@@ -8,8 +8,8 @@
     <param.icons />
     <param.summary />
     <param.description />
-    <param.screenshot>/private/var/folders/q_/s0_3grms30q3lmd996fsfvwcxb418d/T/tp8d427e20_48ee_4204_97fb_0cb0759020f9.png</param.screenshot>
-    <param.version>1.0</param.version>
+    <param.screenshot>/private/var/folders/q_/s0_3grms30q3lmd996fsfvwcxb418d/T/tpdf21f81a_2248_436e_a0d2_f45dc124ee3b.png</param.screenshot>
+    <param.version>1.1</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
@@ -22,7 +22,6 @@
       <param.icons />
       <param.summary />
       <param.description />
-      <param.version />
       <param.products.name />
       <param.products.id />
       <param.products.version />
