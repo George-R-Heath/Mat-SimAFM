@@ -31,5 +31,6 @@ Without the ‘Bioinformatics Toolbox’ 3D coordinates can be read using ‘loa
 Press ‘Export to Matlab’ to export image data and any line profiles to your Matlab workspace 
 
 Press ‘Export Tiff’ to export a 32-bit greyscale image to a user defined location. Height information will be encoded in the image intensity in units of Angstrom. X, Y pixel dimension will match that of the AFM Surface image and will therefore depend on the user defined ‘Pixel Sampling’ value. 
+19.08.2022 - Export Tiff error fixed 
 
 To Export the current AFM Surface image as a JPEG, PNG or PDF go to the upper right-hand corner of the AFM Surface image until the save option and zoom icons appear. Select the arrow and then floppy disk icon for Save As… and save the image as required (these symbols may differ between MATLAB versions, this is for MATLAB 2022a).
