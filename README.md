@@ -1,5 +1,7 @@
 # Mat-SimAFM
 
+05.09.2022 - Update to v1_2 with speed improvements 
+
 A Matlab app and code that generates Simulated AFM images based the great works by Romain Amyot and Holger Flechsig:
 
 Amyot, Romain, and Holger Flechsig. "BioAFMviewer: An interactive interface for simulated AFM scanning of biomolecular structures and dynamics." PLoS computational biology 16.11 (2020): e1008444.
