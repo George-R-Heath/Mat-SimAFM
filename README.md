@@ -1,4 +1,6 @@
 # Mat-SimAFM
+11.07.2023 - Update to v1_4 with dynamics
+Updates include ability to spin or add fluctuations x-y and/or z coordinates and view with video playback.
 
 05.09.2022 - Update to v1_2 with speed improvements 
 
