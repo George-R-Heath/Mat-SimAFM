@@ -13,9 +13,9 @@ MATLAB ‘Bioinformatics Toolbox’ to read local and online .pdb files.
 Without the ‘Bioinformatics Toolbox’ 3D coordinates can be read using ‘load .txt, .csv…’ button
 
 ## App Installation:
-1.	Download the entire Simulation AFM app folder
-2.	Open Mat SimAFM.mlappinstall and install the app to MATLAB
-3.	Open Mat SimAFM from the app list within MATLAB
+1.	Download the .mlappinstall file 
+2.	Open .mlappinstall and install the app to MATLAB
+3.	Open the app from the app list within MATLAB
 
 ## For code only version:
 1.	Run ‘Mat_SimAFM_code_only.m’ in MATLAB editor. 
