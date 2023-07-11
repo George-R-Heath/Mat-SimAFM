@@ -1,6 +1,6 @@
 
 function img = Mat_SimAFM(coords,r,angle,pix_per_ang)
-
+                         
 rs = r*pix_per_ang;
 fspace = (max(coords(:,3))-r)*tan(angle*pi/180)*pix_per_ang+1;
 fspace_cone = (max(coords(:,3))-r)*tan(angle*pi/180)*pix_per_ang+1;
