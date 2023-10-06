@@ -1,6 +1,6 @@
 %A function to export tiff files in 32-bit format
 
-function export_tiffs(image_sequence)
+function [outputFileName, folder] = export_tiffs(image_sequence)
 [outputFileName,folder] = uiputfile('AFM_sim.tiff');
 if any(outputFileName)
 data = single(image_sequence(:,:,1));
